@@ -97,7 +97,7 @@ Each item below cites the exact source returned by GitHub repository search
 1. Re-run the news search when the Brave Search quota resets, or add reputable news
    outlets as sources once coverage is available.
 2. Manually verify Shibuya work spots against a local Yelp/Tabelog/Goo map listing to
-   fill in names, addresses, and afternoon hours (currant constraint blocked automated
+   fill in names, addresses, and afternoon hours (current constraint blocked automated
    retrieval at research time).
 3. Add contact info / pricing notes for a group of ~6, since automated research did not
    return that data.
